@@ -10,7 +10,7 @@ git remote add output https://github.com/tsamis73/tsamis73.github.io.git
 git add *
 git commit -a 
 git push output master -f
-if [ "$?" -e "0" ];then                                                                                                                                                                                           
+if [ "$?" -eq "0" ];then                                                                                                                                                                                           
   echo "Push to output ompleted"
 fi
 cd ..
