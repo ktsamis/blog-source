@@ -22,12 +22,10 @@ OUTPUT_PATH = 'output/'
 #PAGE_PATHS = ['content/pages']
 # For the favicon.ico:
 
-STATIC_PATHS = ['images', 'extra/favicon.ico']
+STATIC_PATHS = ['images', 'extras/favicon.ico']
 EXTRA_PATH_METADATA = {
-        'extra/favicon.ico': {'path': 'favicon.ico'}
+        'extras/favicon.ico': {'path': 'favicon.ico'}
         }
-
-
 
 
 
