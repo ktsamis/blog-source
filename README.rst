@@ -1,9 +1,9 @@
 README
 ======
 
-This is the blog source for `tsamis73.github.io`.
+This is the blog source for **tsamis73.github.io**.
 
-The script `publish.sh` is committing (and pushing) the /output folder to the right repository
+The script **publish.sh** is committing (and pushing) the /output folder to the right repository
 which is the blog_. After that it commits (and pushes) the source files without
 the /output folder to the source_.
 
@@ -11,7 +11,7 @@ the /output folder to the source_.
 .. _blog: https://github.com/tsamis73/tsamis73.github.io.git
 .. _source: https://github.com/tsamis73/blog-source.git
 
-the .gitignore file in the source_ is igonring the /output and the cache folder.
+the .gitignore file in the source_ is ignoring the /output and the cache folder.
 The important thing here is that the content is saved and pushed pretty easily.
 
 Instructions
@@ -24,6 +24,7 @@ to run:
   pelican content/
 
 After that all you have to do is run the script:
+
 .. code-block:: text
 
   ./publish.sh
