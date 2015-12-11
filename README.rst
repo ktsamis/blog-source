@@ -12,7 +12,8 @@ the /output folder to the source_.
 .. _source: https://github.com/tsamis73/blog-source.git
 
 the .gitignore file in the source_ is ignoring the /output and the cache folder.
-The important thing here is that the content is saved and pushed pretty easily.
+The important thing here and the *purpose* of the script is that the content is 
+saved and pushed pretty easily.
 
 Instructions
 ------------
@@ -29,7 +30,7 @@ After that all you have to do is run the script:
 
   ./publish.sh
 
-You need to give the username and the passwords `twice`, once for the output
-repository and once for the source.
+You need to give the username and the passwords `twice`, once for the blog_
+repository and once for the source_.
 
-*And that's it!*
+**And that's it!**
