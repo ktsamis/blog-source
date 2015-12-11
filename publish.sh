@@ -11,7 +11,7 @@ git add *
 git commit -a 
 git push output master -f
 if [ "$?" -eq "0" ];then                                                                                                                                                                                           
-  echo "Push to output ompleted"
+  echo "Push to output completed"
 fi
 cd ..
 git add *
