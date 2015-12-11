@@ -12,7 +12,7 @@ Test for script
 
 blah
 
-
+Testing the .gitconfig to see if the setup is ok for github
 
 
 
