@@ -5,6 +5,6 @@ For any problem with the site or questions about the articles you can send an em
 
 .. code-block:: text                                                                                                                                                                                               
 
-  tsamis73@gmail.com
+	Redacted
 
 *Please* before you send an email asking a clarification **google it first**
